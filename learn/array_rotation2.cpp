@@ -4,7 +4,7 @@ int main()
 {
     int arr[7] = {1, 2, 3, 4, 5, 6, 7};
     int d;
-    cout << "enter d value =";
+    cout << "enter d value = ";
     scanf("%d", &d);
     int temp[d];
 
